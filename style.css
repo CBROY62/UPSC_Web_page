@@ -728,6 +728,25 @@ table ,tr,th{
           margin-top: 60px;
           margin-left: 50px;
         }
-        
+
+
+ /* submit botton */
+        .submit{
+          height: 50px;
+          background-color: blue;
+          color: rgb(236, 130, 64);
+          width: 160px;
+          border: 2px solid rgb(242, 242, 62);
+          border-radius: 10px;
+          font-size: 15px;
+
+        }
+
+        .submit:hover{
+          background-color: rgb(255, 123, 0);
+          border: px solid rgb(59, 43, 43);
+          font-size: 20px;
+          color: rgb(205, 255, 243);
+        }
         
          
